@@ -10,7 +10,11 @@
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"uniques": ["+[25]% combat bonus in [Grassland]","+[25]% combat bonus in [Forest]","+[25]% combat bonus in [Plains]"],
+		"uniques": [
+			"[+25]% Strength <when fighting in [Grassland] tiles>",
+			"[+25]% Strength <when fighting in [Forest] tiles>",
+			"[+25]% Strength <when fighting in [Plains] tiles>"
+		],
 		"attackSound": "shot"
 	},
 ]
